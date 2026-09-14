@@ -1,0 +1,82 @@
+Station,Variable,File,Invalid_Observations
+Liverpool,LIVERPOOL CO 1h average [ppm],"NO2, CO.xlsx",28387
+Penrith,PENRITH CO 1h average [ppm],"NO2, CO.xlsx",16458
+Prospect,PROSPECT CO 1h average [ppm],"NO2, CO.xlsx",13187
+Parramatta North,PARRAMATTA NORTH NO 1h average [pphm],"Ozone, NO.xlsx",8301
+Camden,CAMDEN CO 1h average [ppm],"NO2, CO, SO2.xlsx",7299
+Camden,CAMDEN PM2.5 1h average [µg/m³],"PM10, PM2.5, Ammonia.xlsx",6901
+Prospect,PROSPECT NO 1h average [pphm],"Ozone, NO.xlsx",5167
+Prospect,PROSPECT PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",5056
+Penrith,PENRITH PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",4660
+Randwick,RANDWICK PM2.5 1h average [µg/m³],"PM10, PM2.5, Ammonia.xlsx",4653
+Liverpool,LIVERPOOL PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",4447
+Camden,CAMDEN NO 1h average [pphm],"Ozone, NO.xlsx",4444
+Rozelle,ROZELLE PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",3158
+Parramatta North,PARRAMATTA NORTH PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",3093
+Rozelle,ROZELLE NO 1h average [pphm],"Ozone, NO.xlsx",3047
+Randwick,RANDWICK NO2 1h average [pphm],"NO2, CO, SO2.xlsx",2601
+Penrith,PENRITH NO2 1h average [pphm],"NO2, CO.xlsx",2367
+Camden,CAMDEN HUMID 1h average [%],"Air Temperature, Relative Humidity.xlsx",2291
+Rozelle,ROZELLE NO2 1h average [pphm],"NO2, CO.xlsx",2274
+Liverpool,LIVERPOOL NO2 1h average [pphm],"NO2, CO.xlsx",2119
+Liverpool,LIVERPOOL NO 1h average [pphm],"Ozone, NO.xlsx",2069
+Penrith,PENRITH NO 1h average [pphm],"Ozone, NO.xlsx",1988
+Prospect,PROSPECT NO2 1h average [pphm],"NO2, CO.xlsx",1863
+Randwick,RANDWICK HUMID 1h average [%],"Air Temperature, Relative Humidity.xlsx",1744
+Randwick,RANDWICK NO 1h average [pphm],Ozone and NO.xlsx,1502
+Rozelle,ROZELLE CO 1h average [ppm],"NO2, CO.xlsx",1251
+Parramatta North,PARRAMATTA NORTH CO 1h average [ppm],"NO2, CO.xlsx",999
+Rozelle,ROZELLE SO2 1h average [pphm],"SO2, PM10.xlsx",967
+Penrith,PENRITH HUMID 1h average [%],"Air Temperature, Relative humidity.xlsx",963
+Camden,CAMDEN PM10 1h average [µg/m³],"PM10, PM2.5, Ammonia.xlsx",944
+Prospect,PROSPECT HUMID 1h average [%],"Air Temperature, Relative Humidity, Rainfall.xlsx",858
+Parramatta North,PARRAMATTA NORTH PM10 1h average [µg/m³],"SO2, PM10.xlsx",585
+Prospect,PROSPECT PM10 1h average [µg/m³],"SO2, PM10.xlsx",545
+Parramatta North,PARRAMATTA NORTH NO2 1h average [pphm],"NO2, CO.xlsx",505
+Penrith,PENRITH PM10 1h average [µg/m³],"SO2, PM10.xlsx",494
+Liverpool,LIVERPOOL HUMID 1h average [%],"Air Temperature, Relative Humidity.xlsx",475
+Rozelle,ROZELLE PM10 1h average [µg/m³],"SO2, PM10.xlsx",467
+Liverpool,LIVERPOOL PM10 1h average [µg/m³],"SO2, PM10.xlsx",437
+Liverpool,LIVERPOOL SO2 1h average [pphm],"SO2, PM10.xlsx",435
+Randwick,RANDWICK PM10 1h average [µg/m³],"PM10, PM2.5, Ammonia.xlsx",432
+Randwick,RANDWICK SO2 1h average [pphm],"NO2, CO, SO2.xlsx",353
+Penrith,PENRITH SO2 1h average [pphm],"SO2, PM10.xlsx",228
+Parramatta North,PARRAMATTA NORTH SO2 1h average [pphm],"SO2, PM10.xlsx",214
+Prospect,PROSPECT SO2 1h average [pphm],"SO2, PM10.xlsx",194
+Parramatta North,PARRAMATTA NORTH HUMID 1h average [%],"Air Temperature, Relative Humidity.xlsx",158
+Penrith,PENRITH OZONE 1h average [pphm],"Ozone, NO.xlsx",42
+Liverpool,LIVERPOOL OZONE 1h average [pphm],"Ozone, NO.xlsx",33
+Camden,CAMDEN OZONE 1h average [pphm],"Ozone, NO.xlsx",29
+Camden,CAMDEN NO2 1h average [pphm],"NO2, CO, SO2.xlsx",21
+Rozelle,ROZELLE OZONE 1h average [pphm],"Ozone, NO.xlsx",7
+Parramatta North,PARRAMATTA NORTH OZONE 1h average [pphm],"Ozone, NO.xlsx",4
+Randwick,RANDWICK OZONE 1h average [pphm],Ozone and NO.xlsx,1
+Camden,CAMDEN WSP 1h average [m/s],"Wind Speed, Wind Direction.xlsx",0
+Camden,CAMDEN TEMP 1h average [°C],"Air Temperature, Relative Humidity.xlsx",0
+Camden,CAMDEN WDR 1h average [°],"Wind Speed, Wind Direction.xlsx",0
+Liverpool,LIVERPOOL TEMP 1h average [°C],"Air Temperature, Relative Humidity.xlsx",0
+Camden,CAMDEN RAIN 1h average [mm/m²],Rainfall.xlsx,0
+Parramatta North,PARRAMATTA NORTH TEMP 1h average [°C],"Air Temperature, Relative Humidity.xlsx",0
+Liverpool,LIVERPOOL WSP 1h average [m/s],"Wind Speed, Wind Direction.xlsx",0
+Liverpool,LIVERPOOL WDR 1h average [°],"Wind Speed, Wind Direction.xlsx",0
+Liverpool,LIVERPOOL RAIN 1h average [mm/m²],Rainfall.xlsx,0
+Parramatta North,PARRAMATTA NORTH WDR 1h average [°],"Wind speed, Wind Direction.xlsx",0
+Penrith,PENRITH TEMP 1h average [°C],"Air Temperature, Relative humidity.xlsx",0
+Parramatta North,PARRAMATTA NORTH WSP 1h average [m/s],"Wind speed, Wind Direction.xlsx",0
+Parramatta North,PARRAMATTA NORTH RAIN 1h average [mm/m²],Rainfall.xlsx,0
+Prospect,PROSPECT TEMP 1h average [°C],"Air Temperature, Relative Humidity, Rainfall.xlsx",0
+Penrith,PENRITH WSP 1h average [m/s],"Wind Speed, Wind Direction.xlsx",0
+Penrith,PENRITH WDR 1h average [°],"Wind Speed, Wind Direction.xlsx",0
+Penrith,PENRITH RAIN 1h average [mm/m²],Rainfall.xlsx,0
+Randwick,RANDWICK TEMP 1h average [°C],"Air Temperature, Relative Humidity.xlsx",0
+Prospect,PROSPECT WSP 1h average [m/s],"Wind Speed, Wind Direction.xlsx",0
+Prospect,PROSPECT OZONE 1h average [pphm],"Ozone, NO.xlsx",0
+Prospect,PROSPECT WDR 1h average [°],"Wind Speed, Wind Direction.xlsx",0
+Rozelle,ROZELLE TEMP 1h average [°C],"Air Temperature, Relative Humidity.xlsx",0
+Rozelle,ROZELLE HUMID 1h average [%],"Air Temperature, Relative Humidity.xlsx",0
+Randwick,RANDWICK WDR 1h average [°],"Wind Speed, Wind Direction.xlsx",0
+Randwick,RANDWICK WSP 1h average [m/s],"Wind Speed, Wind Direction.xlsx",0
+Randwick,RANDWICK RAIN 1h average [mm/m²],Rainfall.xlsx,0
+Rozelle,ROZELLE RAIN 1h average [mm/m²],Rainfall.xlsx,0
+Rozelle,ROZELLE WDR 1h average [°],"Wind Speed, Wind Direction.xlsx",0
+Rozelle,ROZELLE WSP 1h average [m/s],"Wind Speed, Wind Direction.xlsx",0

@@ -1,0 +1,78 @@
+Station,Variable,File,Start,End,Gap Length (hours),Gap Category
+Camden,CAMDEN RAIN 1h average [mm/m²],Rainfall.xlsx,2020-01-01 01:00:00,2021-08-26 16:00:00,14488,>168 hours
+Camden,CAMDEN CO 1h average [ppm],"NO2, CO, SO2.xlsx",2023-06-02 15:00:00,2023-09-07 15:00:00,2329,>168 hours
+Camden,CAMDEN NO 1h average [pphm],"Ozone, NO.xlsx",2023-06-02 15:00:00,2023-06-10 02:00:00,180,>168 hours
+Camden,CAMDEN NO2 1h average [pphm],"NO2, CO, SO2.xlsx",2023-06-02 15:00:00,2023-06-10 02:00:00,180,>168 hours
+Camden,CAMDEN OZONE 1h average [pphm],"Ozone, NO.xlsx",2023-06-02 15:00:00,2023-06-10 02:00:00,180,>168 hours
+Camden,CAMDEN PM2.5 1h average [µg/m³],"PM10, PM2.5, Ammonia.xlsx",2023-06-02 15:00:00,2023-06-09 17:00:00,171,>168 hours
+Camden,CAMDEN NO 1h average [pphm],"Ozone, NO.xlsx",2023-06-14 00:00:00,2023-09-07 15:00:00,2056,>168 hours
+Camden,CAMDEN NO2 1h average [pphm],"NO2, CO, SO2.xlsx",2023-06-14 00:00:00,2023-09-07 15:00:00,2056,>168 hours
+Camden,CAMDEN OZONE 1h average [pphm],"Ozone, NO.xlsx",2023-06-14 00:00:00,2023-09-07 15:00:00,2056,>168 hours
+Camden,CAMDEN PM2.5 1h average [µg/m³],"PM10, PM2.5, Ammonia.xlsx",2023-07-13 11:00:00,2023-08-04 11:00:00,529,>168 hours
+Camden,CAMDEN CO 1h average [ppm],"NO2, CO, SO2.xlsx",2025-11-16 02:00:00,2025-11-28 02:00:00,289,>168 hours
+Liverpool,LIVERPOOL RAIN 1h average [mm/m²],Rainfall.xlsx,2020-01-01 01:00:00,2021-09-08 16:00:00,14800,>168 hours
+Liverpool,LIVERPOOL PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",2025-04-02 09:00:00,2025-04-16 17:00:00,345,>168 hours
+Liverpool,LIVERPOOL PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",2025-09-12 02:00:00,2025-09-25 16:00:00,327,>168 hours
+Parramatta North,PARRAMATTA NORTH RAIN 1h average [mm/m²],Rainfall.xlsx,2020-01-01 01:00:00,2022-05-03 15:00:00,20487,>168 hours
+Parramatta North,PARRAMATTA NORTH PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",2020-06-12 10:00:00,2020-06-19 17:00:00,176,>168 hours
+Parramatta North,PARRAMATTA NORTH NO 1h average [pphm],"Ozone, NO.xlsx",2022-09-28 12:00:00,2022-10-06 02:00:00,183,>168 hours
+Parramatta North,PARRAMATTA NORTH NO2 1h average [pphm],"NO2, CO.xlsx",2022-09-28 12:00:00,2022-10-06 02:00:00,183,>168 hours
+Parramatta North,PARRAMATTA NORTH PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",2023-12-07 05:00:00,2024-01-17 11:00:00,991,>168 hours
+Penrith,PENRITH CO 1h average [ppm],"NO2, CO.xlsx",2020-01-01 01:00:00,2020-07-04 02:00:00,4442,>168 hours
+Penrith,PENRITH HUMID 1h average [%],"Air Temperature, Relative humidity.xlsx",2020-01-01 01:00:00,2020-06-25 15:00:00,4239,>168 hours
+Penrith,PENRITH NO 1h average [pphm],"Ozone, NO.xlsx",2020-01-01 01:00:00,2020-07-01 02:00:00,4370,>168 hours
+Penrith,PENRITH NO2 1h average [pphm],"NO2, CO.xlsx",2020-01-01 01:00:00,2020-07-01 02:00:00,4370,>168 hours
+Penrith,PENRITH OZONE 1h average [pphm],"Ozone, NO.xlsx",2020-01-01 01:00:00,2020-07-04 02:00:00,4442,>168 hours
+Penrith,PENRITH PM10 1h average [µg/m³],"SO2, PM10.xlsx",2020-01-01 01:00:00,2020-07-01 16:00:00,4384,>168 hours
+Penrith,PENRITH PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",2020-01-01 01:00:00,2020-07-01 16:00:00,4384,>168 hours
+Penrith,PENRITH RAIN 1h average [mm/m²],Rainfall.xlsx,2020-01-01 01:00:00,2020-07-01 14:00:00,4382,>168 hours
+Penrith,PENRITH SO2 1h average [pphm],"SO2, PM10.xlsx",2020-01-01 01:00:00,2020-07-04 02:00:00,4442,>168 hours
+Penrith,PENRITH TEMP 1h average [°C],"Air Temperature, Relative humidity.xlsx",2020-01-01 01:00:00,2020-06-25 15:00:00,4239,>168 hours
+Penrith,PENRITH WDR 1h average [°],"Wind Speed, Wind Direction.xlsx",2020-01-01 01:00:00,2020-07-03 11:00:00,4427,>168 hours
+Penrith,PENRITH WSP 1h average [m/s],"Wind Speed, Wind Direction.xlsx",2020-01-01 01:00:00,2020-07-03 11:00:00,4427,>168 hours
+Penrith,PENRITH PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",2020-11-29 01:00:00,2020-12-07 15:00:00,207,>168 hours
+Penrith,PENRITH HUMID 1h average [%],"Air Temperature, Relative humidity.xlsx",2022-01-01 01:00:00,2022-01-25 09:00:00,585,>168 hours
+Penrith,PENRITH TEMP 1h average [°C],"Air Temperature, Relative humidity.xlsx",2022-01-01 01:00:00,2022-01-25 09:00:00,585,>168 hours
+Penrith,PENRITH CO 1h average [ppm],"NO2, CO.xlsx",2022-06-15 02:00:00,2022-06-23 02:00:00,193,>168 hours
+Penrith,PENRITH SO2 1h average [pphm],"SO2, PM10.xlsx",2023-02-09 02:00:00,2023-02-22 02:00:00,313,>168 hours
+Prospect,PROSPECT PM10 1h average [µg/m³],"SO2, PM10.xlsx",2022-10-27 09:00:00,2022-12-01 18:00:00,850,>168 hours
+Prospect,PROSPECT PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",2022-10-27 09:00:00,2022-12-01 18:00:00,850,>168 hours
+Prospect,PROSPECT CO 1h average [ppm],"NO2, CO.xlsx",2023-07-25 22:00:00,2023-08-02 02:00:00,173,>168 hours
+Prospect,PROSPECT CO 1h average [ppm],"NO2, CO.xlsx",2023-12-02 02:00:00,2023-12-10 02:00:00,193,>168 hours
+Prospect,PROSPECT WDR 1h average [°],"Wind Speed, Wind Direction.xlsx",2024-04-23 11:00:00,2024-04-30 11:00:00,169,>168 hours
+Prospect,PROSPECT WSP 1h average [m/s],"Wind Speed, Wind Direction.xlsx",2024-04-23 11:00:00,2024-04-30 11:00:00,169,>168 hours
+Prospect,PROSPECT PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",2025-05-23 16:00:00,2025-06-27 13:00:00,838,>168 hours
+Prospect,PROSPECT PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",2025-08-26 00:00:00,2025-09-26 18:00:00,763,>168 hours
+Randwick,RANDWICK RAIN 1h average [mm/m²],Rainfall.xlsx,2020-01-01 01:00:00,2022-09-28 13:00:00,24037,>168 hours
+Randwick,RANDWICK HUMID 1h average [%],"Air Temperature, Relative Humidity.xlsx",2020-03-11 16:00:00,2020-03-26 10:00:00,355,>168 hours
+Randwick,RANDWICK TEMP 1h average [°C],"Air Temperature, Relative Humidity.xlsx",2020-03-11 16:00:00,2020-03-26 10:00:00,355,>168 hours
+Randwick,RANDWICK HUMID 1h average [%],"Air Temperature, Relative Humidity.xlsx",2020-04-09 15:00:00,2020-04-23 12:00:00,334,>168 hours
+Randwick,RANDWICK TEMP 1h average [°C],"Air Temperature, Relative Humidity.xlsx",2020-04-09 15:00:00,2020-04-23 12:00:00,334,>168 hours
+Randwick,RANDWICK WDR 1h average [°],"Wind Speed, Wind Direction.xlsx",2021-04-27 16:00:00,2021-05-12 11:00:00,356,>168 hours
+Randwick,RANDWICK WSP 1h average [m/s],"Wind Speed, Wind Direction.xlsx",2021-04-27 16:00:00,2021-05-12 11:00:00,356,>168 hours
+Randwick,RANDWICK WDR 1h average [°],"Wind Speed, Wind Direction.xlsx",2022-10-27 08:00:00,2022-11-04 13:00:00,198,>168 hours
+Randwick,RANDWICK WSP 1h average [m/s],"Wind Speed, Wind Direction.xlsx",2022-10-27 08:00:00,2022-11-04 13:00:00,198,>168 hours
+Randwick,RANDWICK WDR 1h average [°],"Wind Speed, Wind Direction.xlsx",2022-12-05 20:00:00,2022-12-14 16:00:00,213,>168 hours
+Randwick,RANDWICK WSP 1h average [m/s],"Wind Speed, Wind Direction.xlsx",2022-12-05 20:00:00,2022-12-14 16:00:00,213,>168 hours
+Randwick,RANDWICK WDR 1h average [°],"Wind Speed, Wind Direction.xlsx",2023-12-26 12:00:00,2024-01-06 10:00:00,263,>168 hours
+Randwick,RANDWICK WSP 1h average [m/s],"Wind Speed, Wind Direction.xlsx",2023-12-26 12:00:00,2024-01-06 10:00:00,263,>168 hours
+Randwick,RANDWICK SO2 1h average [pphm],"NO2, CO, SO2.xlsx",2025-05-23 16:00:00,2025-06-01 02:00:00,203,>168 hours
+Rozelle,ROZELLE RAIN 1h average [mm/m²],Rainfall.xlsx,2020-05-21 11:00:00,2020-06-23 17:00:00,799,>168 hours
+Rozelle,ROZELLE NO 1h average [pphm],"Ozone, NO.xlsx",2021-09-08 02:00:00,2021-09-16 02:00:00,193,>168 hours
+Rozelle,ROZELLE NO2 1h average [pphm],"NO2, CO.xlsx",2021-09-08 02:00:00,2021-09-16 02:00:00,193,>168 hours
+Rozelle,ROZELLE SO2 1h average [pphm],"SO2, PM10.xlsx",2021-09-08 02:00:00,2021-09-16 02:00:00,193,>168 hours
+Rozelle,ROZELLE CO 1h average [ppm],"NO2, CO.xlsx",2023-01-04 14:00:00,2023-01-20 02:00:00,373,>168 hours
+Rozelle,ROZELLE HUMID 1h average [%],"Air Temperature, Relative Humidity.xlsx",2023-01-04 14:00:00,2023-01-16 12:00:00,287,>168 hours
+Rozelle,ROZELLE NO 1h average [pphm],"Ozone, NO.xlsx",2023-01-04 14:00:00,2023-01-20 02:00:00,373,>168 hours
+Rozelle,ROZELLE NO2 1h average [pphm],"NO2, CO.xlsx",2023-01-04 14:00:00,2023-01-20 02:00:00,373,>168 hours
+Rozelle,ROZELLE OZONE 1h average [pphm],"Ozone, NO.xlsx",2023-01-04 14:00:00,2023-01-20 02:00:00,373,>168 hours
+Rozelle,ROZELLE PM10 1h average [µg/m³],"SO2, PM10.xlsx",2023-01-04 14:00:00,2023-01-19 12:00:00,359,>168 hours
+Rozelle,ROZELLE PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",2023-01-04 14:00:00,2023-01-19 13:00:00,360,>168 hours
+Rozelle,ROZELLE RAIN 1h average [mm/m²],Rainfall.xlsx,2023-01-04 14:00:00,2023-01-16 12:00:00,287,>168 hours
+Rozelle,ROZELLE SO2 1h average [pphm],"SO2, PM10.xlsx",2023-01-04 14:00:00,2023-01-20 02:00:00,373,>168 hours
+Rozelle,ROZELLE TEMP 1h average [°C],"Air Temperature, Relative Humidity.xlsx",2023-01-04 14:00:00,2023-01-16 12:00:00,287,>168 hours
+Rozelle,ROZELLE WDR 1h average [°],"Wind Speed, Wind Direction.xlsx",2023-01-04 14:00:00,2023-01-16 14:00:00,289,>168 hours
+Rozelle,ROZELLE WSP 1h average [m/s],"Wind Speed, Wind Direction.xlsx",2023-01-04 14:00:00,2023-01-16 14:00:00,289,>168 hours
+Rozelle,ROZELLE SO2 1h average [pphm],"SO2, PM10.xlsx",2025-05-22 08:00:00,2025-06-07 02:00:00,379,>168 hours
+Rozelle,ROZELLE CO 1h average [ppm],"NO2, CO.xlsx",2025-08-27 02:00:00,2025-09-08 02:00:00,289,>168 hours
+Rozelle,ROZELLE CO 1h average [ppm],"NO2, CO.xlsx",2025-09-11 02:00:00,2025-09-20 02:00:00,217,>168 hours

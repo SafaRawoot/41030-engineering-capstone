@@ -1,0 +1,47 @@
+Station,Variable,File,Negative_Observations
+Liverpool,LIVERPOOL CO 1h average [ppm],"NO2, CO.xlsx",28387
+Penrith,PENRITH CO 1h average [ppm],"NO2, CO.xlsx",16458
+Prospect,PROSPECT CO 1h average [ppm],"NO2, CO.xlsx",13187
+Parramatta North,PARRAMATTA NORTH NO 1h average [pphm],"Ozone, NO.xlsx",8301
+Camden,CAMDEN CO 1h average [ppm],"NO2, CO, SO2.xlsx",7299
+Camden,CAMDEN PM2.5 1h average [µg/m³],"PM10, PM2.5, Ammonia.xlsx",6901
+Prospect,PROSPECT NO 1h average [pphm],"Ozone, NO.xlsx",5167
+Prospect,PROSPECT PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",5056
+Penrith,PENRITH PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",4660
+Randwick,RANDWICK PM2.5 1h average [µg/m³],"PM10, PM2.5, Ammonia.xlsx",4653
+Liverpool,LIVERPOOL PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",4447
+Camden,CAMDEN NO 1h average [pphm],"Ozone, NO.xlsx",4444
+Rozelle,ROZELLE PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",3158
+Parramatta North,PARRAMATTA NORTH PM2.5 1h average [µg/m³],"PM2.5, Ammonia.xlsx",3093
+Rozelle,ROZELLE NO 1h average [pphm],"Ozone, NO.xlsx",3047
+Randwick,RANDWICK NO2 1h average [pphm],"NO2, CO, SO2.xlsx",2601
+Penrith,PENRITH NO2 1h average [pphm],"NO2, CO.xlsx",2367
+Rozelle,ROZELLE NO2 1h average [pphm],"NO2, CO.xlsx",2274
+Liverpool,LIVERPOOL NO2 1h average [pphm],"NO2, CO.xlsx",2119
+Liverpool,LIVERPOOL NO 1h average [pphm],"Ozone, NO.xlsx",2069
+Penrith,PENRITH NO 1h average [pphm],"Ozone, NO.xlsx",1988
+Prospect,PROSPECT NO2 1h average [pphm],"NO2, CO.xlsx",1863
+Randwick,RANDWICK NO 1h average [pphm],Ozone and NO.xlsx,1502
+Rozelle,ROZELLE CO 1h average [ppm],"NO2, CO.xlsx",1251
+Parramatta North,PARRAMATTA NORTH CO 1h average [ppm],"NO2, CO.xlsx",999
+Rozelle,ROZELLE SO2 1h average [pphm],"SO2, PM10.xlsx",967
+Camden,CAMDEN PM10 1h average [µg/m³],"PM10, PM2.5, Ammonia.xlsx",944
+Parramatta North,PARRAMATTA NORTH PM10 1h average [µg/m³],"SO2, PM10.xlsx",585
+Prospect,PROSPECT PM10 1h average [µg/m³],"SO2, PM10.xlsx",545
+Parramatta North,PARRAMATTA NORTH NO2 1h average [pphm],"NO2, CO.xlsx",505
+Penrith,PENRITH PM10 1h average [µg/m³],"SO2, PM10.xlsx",494
+Rozelle,ROZELLE PM10 1h average [µg/m³],"SO2, PM10.xlsx",467
+Liverpool,LIVERPOOL PM10 1h average [µg/m³],"SO2, PM10.xlsx",437
+Liverpool,LIVERPOOL SO2 1h average [pphm],"SO2, PM10.xlsx",435
+Randwick,RANDWICK PM10 1h average [µg/m³],"PM10, PM2.5, Ammonia.xlsx",432
+Randwick,RANDWICK SO2 1h average [pphm],"NO2, CO, SO2.xlsx",353
+Penrith,PENRITH SO2 1h average [pphm],"SO2, PM10.xlsx",228
+Parramatta North,PARRAMATTA NORTH SO2 1h average [pphm],"SO2, PM10.xlsx",214
+Prospect,PROSPECT SO2 1h average [pphm],"SO2, PM10.xlsx",194
+Penrith,PENRITH OZONE 1h average [pphm],"Ozone, NO.xlsx",42
+Liverpool,LIVERPOOL OZONE 1h average [pphm],"Ozone, NO.xlsx",33
+Camden,CAMDEN OZONE 1h average [pphm],"Ozone, NO.xlsx",29
+Camden,CAMDEN NO2 1h average [pphm],"NO2, CO, SO2.xlsx",21
+Rozelle,ROZELLE OZONE 1h average [pphm],"Ozone, NO.xlsx",7
+Parramatta North,PARRAMATTA NORTH OZONE 1h average [pphm],"Ozone, NO.xlsx",4
+Randwick,RANDWICK OZONE 1h average [pphm],Ozone and NO.xlsx,1
